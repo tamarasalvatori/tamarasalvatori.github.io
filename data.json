@@ -1,0 +1,60 @@
+[
+    {
+        "categoria": "Palestras",
+        "itens":[
+            {
+                "nome": "Jorge Sá Martins",
+                "imagem": "./images/jorgesa",
+                "descricao": "Mecânica Quântica - professor da Universidade Federal Fluminense",
+                "link": ""
+            },
+            {
+                "nome": "Carlos Eduardo Aguiar",
+                "imagem": "./images/carlosaguiar",
+                "descricao": "O Ensino da Segunda Lei da Termodinâmica - professor da Universidade Federal do Rio de Janeiro",
+                "link": "http://http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4783218J8"
+            },
+            {
+                "nome": "Márcia Basbosa",
+                "imagem": "",
+                "descricao": "",
+                "link": ""
+            },
+            {
+                "nome": "Thaisa Bergmann",
+                "imagem": "",
+                "descricao": "",
+                "link": ""
+            }            
+        ]
+    },
+    {
+        "categoria": "Minicursos",
+        "itens":[
+            {
+                "nome": "",
+                "imagem": "",
+                "descricao": "",
+                "link": ""
+            },
+            {
+                "nome": "",
+                "imagem": "",
+                "descricao": "",
+                "link": ""
+            },
+            {
+                "nome": "",
+                "imagem": "",
+                "descricao": "",
+                "link": ""
+            },
+            {
+                "nome": "",
+                "imagem": "",
+                "descricao": "",
+                "link": ""
+            }            
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+.bg-header{
+    padding: 3px;
+    text-align: center;
+    background: url('../images/bg5.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.bg-footer{
+    padding: 4px;
+    text-align: center;
+    background: url('../images/bg5.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    color: #fff
+}
+
+.bg-footer-offline{
+    padding: 4px;
+    text-align: center;
+    background: url('../images/bg5.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    color: rgb(0, 0, 0)
+}
+
+.logo{
+    width: 50px;
+}
+
+.carousel-area{
+    margin-bottom: -55px;
+    padding: 60px;
+}
+
+.banner-area{
+    width: 50%;
+    margin-bottom: -55px;
+    padding: 50px;
+}
+
+.titulo-categoria{
+    font-size: 120%;
+    color:rgb(5, 5, 44);
+    padding: 10px;
+}
+
+.content{
+    margin-bottom: 80px;
+}
+
+.content-offline{
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+
+.warning{
+    margin-top: 25px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 80%;
+}
