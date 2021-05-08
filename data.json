@@ -5,18 +5,14 @@
             {
                 "nome": "Jorge Sá Martins",
                 "imagem": "../images/jorgesa.png",
-                "descricao": "Dinâmica não linear e caos",
-                "dia": "22/10/22",
-                "hora": "9h",
-                "sala": "201"
+                "descricao": "Dinâmica não linear e caos, 22/10/22, 9h, sala 201",
+                "link": "http://lattes.cnpq.br/4854372533657671"
             },
             {
                 "nome": "Márcia Barbosa",
                 "imagem": "../images/marciabarbosa.png",
-                "descricao": "Água e outros líquidos complexos",
-                "dia": "26/10/22",
-                "hora": "13h",
-                "sala": "201"
+                "descricao": "Água e outros líquidos complexos, 26/10,22, 13h, sala 201",
+                "link": "http://lattes.cnpq.br/7216344229807186"
             }            
         ]
     },
@@ -26,34 +22,26 @@
             {
                 "nome": "Thaisa Bergmann",
                 "imagem": "../images/thaisa.png",
-                "descricao": "Buracos negros supermassivos",
-                "dia": "22/10/22",
-                "hora": "13h",
-                "sala": "203"
+                "descricao": "Buracos negros supermassivos, 22/10/22, 13h, sala 203",
+                "link": "http://lattes.cnpq.br/4999509031047259"
             },
             {
                 "nome": "Carlos Aguiar",
                 "imagem": "../images/carlosaguiar.png",
-                "descricao": "Uma abordagem quase conceitual da Mecânica Quântica",
-                "dia": "23/10/22",
-                "hora": "13h",
-                "sala": "203"
+                "descricao": "Uma abordagem quase conceitual da Mecânica Quântica, 23/10/22, sala 203",
+                "link": "http://lattes.cnpq.br/7079680723888278"
             },
             {
                 "nome": "Osvaldo Pessoa Junior",
                 "imagem": "../images/osvaldopessoa.png",
-                "descricao": "Concepções de Física Quântica",
-                "dia": "24/10/22",
-                "hora": "13h",
-                "sala": "203"
+                "descricao": "Concepções de Física Quântica, 24/10/22, 13h, sala 203",
+                "link": "http://lattes.cnpq.br/6654680579591757"
             },
             {
                 "nome": "Nivaldo Lemos",
                 "imagem": "../images/nivaldolemos.png",
-                "descricao": "Resolvendo problemas de Mecânica Analítica",
-                "dia": "25/10/22",
-                "hora": "13h",
-                "sala": "203"
+                "descricao": "Resolvendo problemas de Mecânica Analítica, 25/10/22, sala 203",
+                "link": "http://lattes.cnpq.br/6802059980173428"
             }            
         ]
     }
