@@ -4,27 +4,19 @@
         "itens":[
             {
                 "nome": "Jorge Sá Martins",
-                "imagem": "./images/jorgesa",
-                "descricao": "Mecânica Quântica - professor da Universidade Federal Fluminense",
-                "link": ""
+                "imagem": "../images/jorgesa.png",
+                "descricao": "Dinâmica não linear e caos",
+                "dia": "22/10/22",
+                "hora": "9h",
+                "sala": "201"
             },
             {
-                "nome": "Carlos Eduardo Aguiar",
-                "imagem": "./images/carlosaguiar",
-                "descricao": "O Ensino da Segunda Lei da Termodinâmica - professor da Universidade Federal do Rio de Janeiro",
-                "link": "http://http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4783218J8"
-            },
-            {
-                "nome": "Márcia Basbosa",
-                "imagem": "",
-                "descricao": "",
-                "link": ""
-            },
-            {
-                "nome": "Thaisa Bergmann",
-                "imagem": "",
-                "descricao": "",
-                "link": ""
+                "nome": "Márcia Barbosa",
+                "imagem": "../images/marciabarbosa.png",
+                "descricao": "Água e outros líquidos complexos",
+                "dia": "26/10/22",
+                "hora": "13h",
+                "sala": "201"
             }            
         ]
     },
@@ -32,28 +24,36 @@
         "categoria": "Minicursos",
         "itens":[
             {
-                "nome": "",
-                "imagem": "",
-                "descricao": "",
-                "link": ""
+                "nome": "Thaisa Bergmann",
+                "imagem": "../images/thaisa.png",
+                "descricao": "Buracos negros supermassivos",
+                "dia": "22/10/22",
+                "hora": "13h",
+                "sala": "203"
             },
             {
-                "nome": "",
-                "imagem": "",
-                "descricao": "",
-                "link": ""
+                "nome": "Carlos Aguiar",
+                "imagem": "../images/carlosaguiar.png",
+                "descricao": "Uma abordagem quase conceitual da Mecânica Quântica",
+                "dia": "23/10/22",
+                "hora": "13h",
+                "sala": "203"
             },
             {
-                "nome": "",
-                "imagem": "",
-                "descricao": "",
-                "link": ""
+                "nome": "Osvaldo Pessoa Junior",
+                "imagem": "../images/osvaldopessoa.png",
+                "descricao": "Concepções de Física Quântica",
+                "dia": "24/10/22",
+                "hora": "13h",
+                "sala": "203"
             },
             {
-                "nome": "",
-                "imagem": "",
-                "descricao": "",
-                "link": ""
+                "nome": "Nivaldo Lemos",
+                "imagem": "../images/nivaldolemos.png",
+                "descricao": "Resolvendo problemas de Mecânica Analítica",
+                "dia": "25/10/22",
+                "hora": "13h",
+                "sala": "203"
             }            
         ]
     }
