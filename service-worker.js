@@ -6,6 +6,7 @@ const FILES_TO_CACHE = [
     
     "../images/icons/favicon.ico",
     "../images/bg5.jpg",
+    "../imagem/offline.png",
     "../images/atom_logo.png",
     "../css/styles.css",
     "../css/bootstrap.min.css",
