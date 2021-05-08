@@ -15,6 +15,13 @@
     color: #fff
 }
 
+.bg-title{
+    text-align: center;
+    background-color: rgb(247, 251, 253);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
 .bg-footer-offline{
     padding: 4px;
     text-align: center;
@@ -41,9 +48,16 @@
 
 .titulo-categoria{
     font-size: 120%;
+    text-align: center;
     color:rgb(5, 5, 44);
     padding: 10px;
 }
+
+.titulo{
+    margin-top: 25px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 80%;}
 
 .category{
     padding: 10px;
