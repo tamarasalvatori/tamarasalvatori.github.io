@@ -1,5 +1,27 @@
+let deferredInstallPrompt = null;
+const botaoInstalar = document.getElementById('btnInstalar');
+
 let initializeUI = function(){
-    console.log("Código derivado de PWA");
+
+    botaoInstalar.removeAttribute('hidden');
+    botaoInstalar.addEventListener('click', function(){
+
+        deferredInstallPrompt.prompt();
+        deferredInstallPrompt.userChoice.then((choice) => {
+
+            if(choice.outcome === 'accepted'){
+                console.log("Usuário aceitou a instalação")
+            }else{
+                console.log("Usuário não aceitou a instalação");
+            }
+        });
+    });
+}
+
+window.addEventListener('beforeinstallprompt', gravarEvento);
+
+function gravarEvento(evt){
+    deferredInstallPrompt = evt;
 }
 
 //Carregamento de conteúdo
