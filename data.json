@@ -5,13 +5,13 @@
             {
                 "nome": "Jorge Sá Martins",
                 "imagem": "../images/jorgesa.png",
-                "descricao": "Dinâmica não linear e caos, 22/10/22, 9h, sala 201",
+                "descricao": "Dinâmica não linear e caos - Depois de exibir a riqueza de comportamentos dinâmicos oferecida por um sistema com dinâmica não linear, vou focalizar aqueles que dão origem a fenômenos que se convencionou chamar de caóticos. Apresentarei suas características principais, introduzindo a terminologia usada nesta área de pesquisa e suas conexões com comportamentos observáveis na vida real e com a geometria dos fractais. O mapa logístico, que possibilita a manipulação simples de um sistema caótico, será apresentado ao final. Data: 22/10/22, Horário: 9h, Sala: 201",
                 "link": "http://lattes.cnpq.br/4854372533657671"
             },
             {
                 "nome": "Márcia Barbosa",
                 "imagem": "../images/marciabarbosa.png",
-                "descricao": "Água e outros líquidos complexos, 26/10,22, 13h, sala 201",
+                "descricao": "Água e outros líquidos complexos - A água é o líquido encontrado em maior abundância no planeta e cujo comportamento faz parte do cotidiano. No entanto, ela apresenta uma série de comportamentos que a diferenciam dos demais líquidos. O mais conhecido é a anomalia na densidade. Na maioria dos líquidos a densidade aumenta com a diminuição da temperatura. Na. água a densidade tem a pressão ambiente um máximo a 4oC. Além deste. comportamento há 66 outras anomalias termodinâmicas, dinâmicas e estruturais, muitas das quais fundamentais para a manutenção da vida. Qual seria o mecanismo para a presença das anomalias? Para responder a esta pergunta desenvolvemos modelos efetivos que reproduzem as anomalias da água e nos ajudam a identificar como ela se produz através de interações de duas escalas que levam à formação de agregados de partículas compactos e abertos.A presença destes agregados de diferentes tamanhos não somente dá embasamento teórico para o uso de modelos efetivos como coloca a água na categoria de um fluido complexo., Data: 26/10,22, Horário: 13h, Sala: 201",
                 "link": "http://lattes.cnpq.br/7216344229807186"
             }            
         ]
@@ -22,25 +22,25 @@
             {
                 "nome": "Thaisa Bergmann",
                 "imagem": "../images/thaisa.png",
-                "descricao": "Buracos negros supermassivos, 22/10/22, 13h, sala 203",
+                "descricao": "Buracos negros supermassivos - Os “misteriosos” Buracos Negros podem ser descritos como estruturas do espaço-tempo em que agravidade é tão grande que nada. lhes escapa, nem mesmo a luz, e. por isto levam este nome. No seu entorno, os efeitos preditos pela Relatividade Geral são particularmente evidenciados,  como a curvatura do espaço e dilatação do tempo. Hoje sabemos que todas galáxias massivas no Universo têm um Buraco Negro Supermassivo no seu centro,  com massa maior do que 1. milhão de massas solares, e, à medida que os. observamos, concluímos que eles têm um papel fundamental em moldar o Universo. como o conhecemos. Vou apresentar resultados observacionais. recentes sobre. os Buracos Negros Supermassivos, abrangendo. a comprovação da sua existência no centro das galáxias, como eles se alimentam e os efeitos de feedback que produzem nas suas galáxias hospedeiras. Data: 22/10/22, Horário: 13h, Sala: 203",
                 "link": "http://lattes.cnpq.br/4999509031047259"
             },
             {
                 "nome": "Carlos Aguiar",
                 "imagem": "../images/carlosaguiar.png",
-                "descricao": "Uma abordagem quase conceitual da Mecânica Quântica, 23/10/22, sala 203",
+                "descricao": "Entropia Estatística e o Ensino da Segunda Lei da Termodinâmica - Apresentamos uma proposta para o ensino da segunda lei da termodinâmica, baseada no conceito estatístico de entropia. A abordagem estatística simplifica a introdução do conceito de entropia, que é tomada como ponto de partida para a discussão da segunda lei. A partir da noção de entropia, os principais resultados associados à segunda lei da termodinâmica são obtidos com facilidade. A proposta destina-se ao ensino médio, mas pode ser aplicada em cursos básicos do ensino superior e em disciplinas dos cursos de licenciatura. Data: 23/10/22, Horário: 15h, Sala: 203",
                 "link": "http://lattes.cnpq.br/7079680723888278"
             },
             {
                 "nome": "Osvaldo Pessoa Junior",
                 "imagem": "../images/osvaldopessoa.png",
-                "descricao": "Concepções de Física Quântica, 24/10/22, 13h, sala 203",
+                "descricao": "Concepções de Física Quântica - Uma introdução bastante suave à Física Quântica, que dá ênfase aos conceitos, às interpretações e às questões filosóficas da teoria. Apresenta uma linguagem mais intuitiva e menos matemática da Mecânica Quântica. O curso pode ser usado por aqueles que nunca cursaram uma disciplina de Mecância Quântica, como alunos de Filosofia, Ensino de Ciências, História da ciência e outras áreas científicas. Data: 24/10/22, Horário: 13h, Sala: 203",
                 "link": "http://lattes.cnpq.br/6654680579591757"
             },
             {
                 "nome": "Nivaldo Lemos",
                 "imagem": "../images/nivaldolemos.png",
-                "descricao": "Resolvendo problemas de Mecânica Analítica, 25/10/22, sala 203",
+                "descricao": "Resolvendo problemas de Mecânica Analítica - Indispensável para a compreensão das teorias físicas contemporâneas, a mecânica analítica cresceu em importância devido ao desenvolvimento recente das teorias do caos e dos sistemas dinâmicos. Os formalismos lagrangiano e hamiltoniano são introduzidos de forma clara, com ênfase nas propriedades de simetria e invariância e nos aspectos estruturais da mecânica. . Data: 25/10/22, Horário: 15h, Sala: 203",
                 "link": "http://lattes.cnpq.br/6802059980173428"
             }            
         ]
